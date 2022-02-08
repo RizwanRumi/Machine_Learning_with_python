@@ -6,3 +6,4 @@
 -> Feature Transformation
 -> Encoding Technique
 -> Decision Tree
+-> Support Vector Machine
